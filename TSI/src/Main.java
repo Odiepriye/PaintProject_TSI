@@ -39,7 +39,7 @@ public class Main {
     public static double door(double width, double height) {
         return height * width;
     }
-    
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Welcome! What is your cost(in GBP) per litre: ");
